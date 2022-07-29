@@ -1,0 +1,15 @@
+Functions of ALU
+func = 0000: ADD
+func = 0001:	SUB
+func = 0010: MUL
+func = 0011: SEL A
+func = 0100: SEL B
+func = 0101: AND
+func = 0110: OR
+func = 0111: XOR
+func = 1000: NOR
+func = 1001: NAND
+func = 1010: NEG A
+func = 1011: NEG B
+func = 1100: SRA
+func = 1101: SLA
